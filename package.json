@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc hello.ts",
-    "run": "node hello.js",
     "test": "jest"
   },
   "devDependencies": {
